@@ -1,0 +1,4 @@
+reudx : 리덕스 관련 코드를 모두 몰아넣음
+config : 리덕스 설정 관련 파일 전부
+configStore : 중앙 state 관리소 -> 성정 코드 (.Js)
+modules : state의 그룹! Ex)Todolist. todo.Js
